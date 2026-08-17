@@ -23876,5 +23876,11 @@
     "newArchitecture": "new-arch-only",
     "ios": true,
     "android": true
+  },
+    {
+    "githubUrl": "https://github.com/vardrz/react-native-bluetooth-escpos-printer",
+    "npmPkg": "@vardrz/react-native-bluetooth-escpos-printer",
+    "android": true,
+    "ios": true,
   }
 ]
